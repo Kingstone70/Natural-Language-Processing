@@ -1,2 +1,2 @@
 # Natural-Language-Processing
- This  folder  contain  different collection of the NLP Tasks
+ This  folder  contain  different collection of the NLP Tasks/ Use cases
